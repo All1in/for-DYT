@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+    color: #800080;
+}
+
+
+td {
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+}
+
+tr:nth-child(2) {
+    text-align: left;
+}
+
+code {
+    background-color: #808080;
+    padding: 10px;
+}
+
+.td_in_table {
+    width: 350px;
+    background-color: #808080;
+}
+
+#table3 {
+    margin-top: 55px;
+}
+
+#someTd {
+    text-align: center;
+}
+
+.td_params {
+    background-color: #808080;
+}
